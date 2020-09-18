@@ -10,6 +10,13 @@ article {
     background-color: #e0ffff;
 }
 
+header {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 25px;
+	color: #708090;
+	text-align: center;
+}
+
 .photo {
 	width: 320px;
 	height: 320px;
