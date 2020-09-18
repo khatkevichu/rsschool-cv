@@ -19,4 +19,4 @@ https://github.com/khatkevichu/rsschool-cv.git
 * Udemy (Basics of web development. HTML and CSS);
 * I mastered the educational program of English language training courses on the theme "Scientific and technical translation: grammatical features" at the faculty of advanced training and retraining of the Belarusian State University.
 ### English:
-In 2018 I went to London for two weeks.
+Conversational experience: in 2018 I went to London for two weeks.
