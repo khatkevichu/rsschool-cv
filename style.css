@@ -1,0 +1,29 @@
+body {
+    background: #555;
+}
+
+article {
+    margin: auto;
+    max-width: 500px;
+    padding: 10px 15px;
+    font-family: 'Inconsolata', monospace;
+    background-color: #e0ffff;
+}
+
+.photo {
+	width: 320px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+.myself { color: #6a5acd; }
+
+.skills { color: #f4a460; }
+
+.code { color: #f08080 }
+
+.education { color: #db7093 }
+
+.english { color: #dda0dd }
+
+footer { color: #008080 }
