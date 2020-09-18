@@ -10,7 +10,7 @@ Motivated, teamwork-oriented and responsible junior developer. Easy to learn new
 * Delphi;
 * JS;
 * MathCad
-*tools:*
+tools:
 * Visual Studio Code;
 * Sublime Text;
 ### Code examples:
